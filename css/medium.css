@@ -1,0 +1,220 @@
+@media(max-width:767px) {
+  body {
+    width: 100%;
+    margin: 0;
+  }
+
+  /********************************** First-Container ***********************************/
+  .first-container {
+    width: 100%;
+    background-image: url(bg-hero-mobile.svg);
+    background-repeat: no-repeat;
+    padding-bottom: 0;
+  }
+
+  /* Top Button */
+  .TryButton1 {
+    padding: 2% 8%;
+    font-size: 12px;
+    right: 10%;
+    top: 40px;
+  }
+
+  /* Top Logo */
+  .logo1 {
+    width: 35%;
+    margin-top: 40px;
+    margin-left: 10%;
+  }
+
+  /* Section */
+  .heading {
+    width: 80%;
+    text-align: center;
+    margin-left: 10%;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-size: 2rem;
+  }
+
+  /* Paragragh1 */
+  .p1 {
+    width: 85%;
+    text-align: center;
+    font-size: 1.5rem;
+    margin-left: 7.5%;
+    padding: 0;
+  }
+
+  /* Start Buttom */
+  .myButton {
+    font-size: 1rem;
+    padding: 2% 10%;
+    margin: 0;
+  }
+
+  .Mybutton {
+    text-align: center;
+  }
+
+  /* Second-Container */
+  .mockup {
+    margin: 15%;
+    position: static;
+    float: none;
+    width: 70%;
+  }
+
+  /**************************************Second-Container **************************/
+  .Second-container {
+    margin: 6%;
+  }
+
+  /* Together Image */
+  .together {
+    float: none;
+    width: 80%;
+    margin-left: 10%;
+  }
+
+  /* Heading of second Container */
+  .heading-grow {
+    text-align: center;
+    margin-left: 25%;
+    padding-top: 0;
+  }
+
+  /* paragraph */
+  .p2 {
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-bottom: 50px;
+    padding-right: 0;
+  }
+
+  /***********************************Third-Container *****************************/
+  .third-container {
+    margin-left: 6%;
+  }
+
+  /* Conversation Image */
+  .conversation {
+    float: none;
+    width: 80%;
+    margin-left: 10%;
+  }
+
+  /* Paragraph */
+  .p3 {
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-bottom: 50px;
+  }
+
+  /* Heading of third Container*/
+  .heading2 {
+    text-align: center;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 0px;
+  }
+
+  /************************************Fourth-Container ***************************/
+  .fourth-container {
+    margin: 6%;
+  }
+
+  /* User Image */
+  .users {
+    float: none;
+    width: 80%;
+    margin-right: 0px;
+    margin-left: 10%;
+  }
+
+  /* Heading of the fourth Container */
+  .heading-feature {
+    margin-left: 25%;
+    margin-bottom: 50px;
+    padding-top: 0;
+    width: 50%;
+    text-align: center;
+  }
+
+  /* Paragraph */
+  .p4 {
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    padding-top: 0;
+    margin-bottom: 50px;
+  }
+
+  /*********** Blocks ************/
+  /* Block1 */
+  .b1 {
+    left: 10%;
+    top: 200px;
+  }
+
+  /* Block2 */
+  .b2 {
+    position: absolute;
+    top: 510px;
+    left: 10%;
+    margin-left: 0;
+  }
+
+  /* Block3 */
+  .b3 {
+    position: absolute;
+    top: 660px;
+    left: 10%;
+    margin-left: 0;
+  }
+
+  /************************************** Footer *********************************/
+  .footer {
+    padding-bottom: 730px;
+    background-size: cover;
+  }
+
+  /******************************Firth Container ******************************/
+  .fifth-container {
+    position: absolute;
+    left: 7%;
+    bottom: 850px;
+    width: 85%;
+  }
+
+  /* Heading  */
+  .heading-buttom {
+    font-size: 1.5rem;
+    width: 70%;
+    margin-left: 15%;
+  }
+
+  /* My button2 */
+  .myButton2 {
+    font-size: 1rem;
+    padding: 12px 50px;
+  }
+
+  /* logo2 */
+  .logo2 {
+    width: 50%;
+    margin-left: 10%;
+    padding-left: 0;
+  }
+
+  /* Social-Modia */
+  .social-media {
+    position: absolute;
+    top: 850px;
+    left: 25%;
+    width: 50%;
+    margin-left: 0;
+  }
+}
